@@ -1,5 +1,6 @@
-# Visual Programming
+# Visual Programming 🖥
 This repository contains solved exercises from the course Visual Programming.
+It consists of learning Windows Forms in C# (.NET Framework).
 
 # Contents
 - Објектно-ориентирано програмирање во C# (Класи и објекти)
@@ -7,3 +8,14 @@ This repository contains solved exercises from the course Visual Programming.
 - Multiple Forms
 - Валидација (Error Providers)
 - Timer
+
+### Exercises for the first partial exam:
+- Airports ✈
+- Buses 🚌
+- Conference Papers 📄
+- Exams 📖
+- Online Store 🏪
+- TV Shows 📺
+- Weather ⛅
+
+
