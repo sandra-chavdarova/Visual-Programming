@@ -8,6 +8,9 @@ It consists of learning Windows Forms in C# (.NET Framework).
 - Multiple Forms
 - Валидација (Error Providers)
 - Timer
+- Цртање форми
+- Цртање линии
+- Цртање полигони
 
 ### Exercises for the first partial exam:
 - Airports ✈
@@ -17,5 +20,9 @@ It consists of learning Windows Forms in C# (.NET Framework).
 - Online Store 🏪
 - TV Shows 📺
 - Weather ⛅
+- Hangman
+- DrawObjects
+- Lines
+
 
 
