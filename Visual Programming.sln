@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVShows", "TVShows\TVShows.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exams", "Exams\Exams.csproj", "{F3AD9F47-7D8D-4922-A7E7-E02E366FF375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "Hangman\Hangman.csproj", "{B17B9FA3-ABBF-440D-B9AD-532584338FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawObjects", "DrawObjects\DrawObjects.csproj", "{A1269662-AD99-45C0-B0AA-85B381CAD9E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F3AD9F47-7D8D-4922-A7E7-E02E366FF375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AD9F47-7D8D-4922-A7E7-E02E366FF375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AD9F47-7D8D-4922-A7E7-E02E366FF375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17B9FA3-ABBF-440D-B9AD-532584338FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17B9FA3-ABBF-440D-B9AD-532584338FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17B9FA3-ABBF-440D-B9AD-532584338FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17B9FA3-ABBF-440D-B9AD-532584338FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1269662-AD99-45C0-B0AA-85B381CAD9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1269662-AD99-45C0-B0AA-85B381CAD9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1269662-AD99-45C0-B0AA-85B381CAD9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1269662-AD99-45C0-B0AA-85B381CAD9E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
