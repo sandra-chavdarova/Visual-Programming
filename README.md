@@ -20,12 +20,15 @@ It consists of learning Windows Forms in C# (.NET Framework).
 - Online Store 🏪
 - TV Shows 📺
 - Weather ⛅
+  
+### Exercises for the second partial exam:
 - Hangman ✏
 - DrawObjects 🖌
 - Lines 🖊
 - Polygons ✏
 - Flying Balls 🎈
 - Hunting Balls ⚫
+- Blinking Balls 🔴🟡🟢
 
 
 
