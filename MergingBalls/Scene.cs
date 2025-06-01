@@ -67,6 +67,7 @@ namespace MergingBalls
 
                         Balls[i].Center = newCenter;
                         Balls[i].Radius = newRadius;
+                        Balls[i].Direction = 2;
                     }
                 }
             }

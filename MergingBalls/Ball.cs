@@ -20,7 +20,7 @@ namespace MergingBalls
         {
             this.Center = center;
             this.Color = Color.Red;
-            this.Direction = Random.Next(1, 3); // 1 - right, 2 - down, opposite for opposite direction
+            this.Direction = Random.Next(1, 3); // 1 - right, 2 - up, opposite for opposite direction
             this.Radius = Random.Next(20, 40);
         }
 
@@ -37,8 +37,8 @@ namespace MergingBalls
             {
                 case 1: Center = new Point(Center.X + 10, Center.Y); break;
                 case -1: Center = new Point(Center.X - 10, Center.Y); break;
-                case 2: Center = new Point(Center.X, Center.Y + 10); break;
-                default: Center = new Point(Center.X, Center.Y - 10); break;
+                case 2: Center = new Point(Center.X, Center.Y - 10); break;
+                default: Center = new Point(Center.X, Center.Y + 10); break;
             }
         }
 
