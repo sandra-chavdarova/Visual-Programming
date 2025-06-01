@@ -25,6 +25,7 @@ It consists of learning Windows Forms in C# (.NET Framework).
 - Lines 🖊
 - Polygons ✏
 - Flying Balls 🎈
+- Hunting Balls ⚫
 
 
 
