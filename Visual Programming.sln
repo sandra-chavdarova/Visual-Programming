@@ -19,8 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lines", "Lines\Lines.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons", "Polygons\Polygons.csproj", "{8AF4B340-0BEB-491A-8627-1E66BAB43357}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyingBalls", "FlyingBalls\FlyingBalls.csproj", "{4FDAEBE0-B4D4-4B22-AEEE-68C8DCFDF50D}"
 EndProject
+=======
+>>>>>>> 02fe172578896ceeba637fff84c005a54bf35cdd
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,10 +62,13 @@ Global
 		{8AF4B340-0BEB-491A-8627-1E66BAB43357}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AF4B340-0BEB-491A-8627-1E66BAB43357}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AF4B340-0BEB-491A-8627-1E66BAB43357}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{4FDAEBE0-B4D4-4B22-AEEE-68C8DCFDF50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4FDAEBE0-B4D4-4B22-AEEE-68C8DCFDF50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FDAEBE0-B4D4-4B22-AEEE-68C8DCFDF50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FDAEBE0-B4D4-4B22-AEEE-68C8DCFDF50D}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 02fe172578896ceeba637fff84c005a54bf35cdd
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

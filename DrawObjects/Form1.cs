@@ -24,7 +24,11 @@ namespace DrawObjects
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             
+=======
+        
+>>>>>>> 02fe172578896ceeba637fff84c005a54bf35cdd
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)
