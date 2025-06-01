@@ -29,6 +29,7 @@ It consists of learning Windows Forms in C# (.NET Framework).
 - Flying Balls 🎈
 - Hunting Balls ⚫
 - Blinking Balls 🔴🟡🟢
+- Merging Balls 🔴
 
 
 
