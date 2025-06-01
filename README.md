@@ -20,9 +20,11 @@ It consists of learning Windows Forms in C# (.NET Framework).
 - Online Store 🏪
 - TV Shows 📺
 - Weather ⛅
-- Hangman
-- DrawObjects
-- Lines
+- Hangman ✏
+- DrawObjects 🖌
+- Lines 🖊
+- Polygons ✏
+- Flying Balls 🎈
 
 
 
