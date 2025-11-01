@@ -2,6 +2,8 @@
 This repository contains solved exercises from the course Visual Programming.
 It consists of learning Windows Forms in C# (.NET Framework).
 
+**Link to a group project done in Unity**: [Skeleton Rush](https://github.com/Jovann365/Skeleton-Rush)
+
 # Contents
 - Објектно-ориентирано програмирање во C# (Класи и објекти)
 - WindowsForms, ListBox, CheckedListBox
